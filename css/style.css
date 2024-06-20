@@ -1,0 +1,32 @@
+@import url(variables.css);
+
+.first {
+    background-color: #347CF4;
+    width: 470px;
+    align-items: center;
+    left: 100px;
+    border-radius: 10px;
+} 
+.title {
+    color: whitesmoke;
+        justify-content: center;
+        align-items: center;
+        height: 5vh
+        
+}
+.parrafo {
+    color: whitesmoke;
+    top: 10px;
+    position: -webkit-sticky;
+}
+.one {
+    border-radius: 70px;
+}
+.two {
+    border-radius: 70px;
+}
+.Lucas {
+    position: relative;
+    left: 140px;
+    top: -130px;
+}
