@@ -2,22 +2,39 @@
 
 .first {
     background-color: #347CF4;
-    width: 470px;
+    width: 530px;
     align-items: center;
-    left: 100px;
+    left: -10px;
     border-radius: 10px;
+    position: relative;
 } 
 .title {
+    position: relative;
+    left: 30px;
+    top: 25px;
     color: whitesmoke;
         justify-content: center;
         align-items: center;
         height: 5vh
+    
+
         
 }
 .parrafo {
+    position: relative;
     color: whitesmoke;
     top: 10px;
     position: -webkit-sticky;
+    left: 30px;
+}
+.searchDiv{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50px;
+    width: calc(100% - 40px);
+    height: 60px;
+    background-color: var(--color-2);
 }
 .one {
     border-radius: 70px;
@@ -28,5 +45,10 @@
 .Lucas {
     position: relative;
     left: 140px;
-    top: -130px;
+    top: -145px;
+}
+.lucas {
+    position: relative;
+    left: 145px;
+    top: -140px;
 }
