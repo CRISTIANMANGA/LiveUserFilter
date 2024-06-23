@@ -123,6 +123,6 @@ const data = [
       });
   }
   
-  // Inicializar con todos los resultados
+
   displayResults(data);
   
